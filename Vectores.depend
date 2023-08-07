@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1690996476 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\vectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Vectores.h"
+
+1690997385 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+
+1690996124 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vectores.h"
+
